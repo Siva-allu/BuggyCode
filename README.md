@@ -1,7 +1,7 @@
 # BuggyCode
 
 Directory - <br>
-Backend - Contains C# project <br>
+Backend - Contains C# project URL: https://localhost:7096/swagger/index.html <br>
 Frontend - Open index.html
 
 Frontend 
